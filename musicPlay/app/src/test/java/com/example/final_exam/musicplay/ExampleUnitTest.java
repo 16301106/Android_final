@@ -1,4 +1,4 @@
-package com.example.jinpeichen.musicplay;
+package com.example.final_exam.musicplay;
 
 import org.junit.Test;
 
